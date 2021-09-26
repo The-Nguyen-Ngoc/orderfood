@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/orderfood/static/css/main.d1162053.chunk.css",
+    "main.js": "/github.io/orderfood/static/js/main.cbb4bcc7.chunk.js",
+    "main.js.map": "/github.io/orderfood/static/js/main.cbb4bcc7.chunk.js.map",
+    "runtime-main.js": "/github.io/orderfood/static/js/runtime-main.c012efa2.js",
+    "runtime-main.js.map": "/github.io/orderfood/static/js/runtime-main.c012efa2.js.map",
+    "static/js/2.9f56ad16.chunk.js": "/github.io/orderfood/static/js/2.9f56ad16.chunk.js",
+    "static/js/2.9f56ad16.chunk.js.map": "/github.io/orderfood/static/js/2.9f56ad16.chunk.js.map",
+    "index.html": "/github.io/orderfood/index.html",
+    "static/css/main.d1162053.chunk.css.map": "/github.io/orderfood/static/css/main.d1162053.chunk.css.map",
+    "static/js/2.9f56ad16.chunk.js.LICENSE.txt": "/github.io/orderfood/static/js/2.9f56ad16.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/github.io/orderfood/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012efa2.js",
+    "static/js/2.9f56ad16.chunk.js",
+    "static/css/main.d1162053.chunk.css",
+    "static/js/main.cbb4bcc7.chunk.js"
+  ]
+}
